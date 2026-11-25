@@ -2,6 +2,10 @@
 
 小芙是一只参考《原神》角色芙宁娜造型绘制的 ChatGPT 动态宠物。精灵图包含九组动作和十六个视线方向。
 
+## 动作预览
+
+![小芙的九组动作循环预览](previews/xiao-fu-motion.gif)
+
 ## Windows 桌面版安装
 
 1. 在 GitHub 点击 **Code → Download ZIP**，下载并解压本分支。
